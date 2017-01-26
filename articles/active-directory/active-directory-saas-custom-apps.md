@@ -20,7 +20,7 @@ ms.openlocfilehash: 8274e47e99998b735e7252ce72bb3ac7c2ecc672
 
 ---
 # <a name="configuring-single-sign-on-to-applications-that-are-not-in-the-azure-active-directory-application-gallery"></a>Azure Active Directory アプリケーション ギャラリーに含まれていないアプリケーションへのシングル サインオンの構成
-この記事では、管理者が *コードを記述せずに*Azure Active Directory アプリケーション ギャラリーに存在しないアプリケーションへのシングル サインオンを構成できるようにする機能について説明します。 この機能は、2015 年 11 月 18 日に技術プレビューでリリースされ、 [Azure Active Directory Premium](active-directory-editions.md)に含まれています。 コードを使用してカスタム アプリケーションと Azure AD を統合する方法に関する開発者向けガイダンスをお探しの場合は、「 [Azure AD の認証シナリオ](active-directory-authentication-scenarios.md)」を参照してください。
+この記事では、管理者が *コードを書かずに*Azure Active Directory アプリケーション ギャラリーに存在しないアプリケーションへのシングル サインオンを構成できるようにする機能について説明します。 この機能は、2015 年 11 月 18 日に技術プレビューから正式にリリースされ、 [Azure Active Directory Premium](active-directory-editions.md)に含まれています。 カスタム アプリケーションのコードを変更し Azure AD と統合する方法に関する開発者向けガイダンスをお探しの場合は、「 [Azure AD の認証シナリオ](active-directory-authentication-scenarios.md)」を参照してください。
 
 [この記事](active-directory-appssoaccess-whatis.md)で説明されているように、Azure Active Directory アプリケーション ギャラリーには、Azure Active Directory によるシングル サインオンの形式をサポートすることがわかっているアプリケーションの一覧が表示されます。 (組織内の IT スペシャリストまたはシステム インテグレーターとして) 接続するアプリケーションを見つけたら、Microsoft Azure 管理ポータルに示される詳細な手順に従って、シングル サインオンを有効にすることができます。
 
